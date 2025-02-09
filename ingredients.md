@@ -1,3 +1,5 @@
+Let's begin!
+
 1 oignon, coupé en morceaux
 1 branche de céleri, coupée en morceaux
 2 carottes, coupées en morceaux
@@ -15,3 +17,5 @@
 10 ml (2 c. à thé) d’herbes fraîches ciselées (sauge, marjolaine ou thym)
 1 pincée de flocons de piment broyé
 125 ml (½ tasse) de lait 
+
+Enjoy my recipe!
