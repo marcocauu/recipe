@@ -1,9 +1,13 @@
 # recipe
 
-Bolognaise
+### Bolognaise
 
-A recipe outlining steps to create a delicious bolognaise. This is sure to be a crowd pleaser.
+A recipe outlining steps to create a **delicious bolognaise**. This is sure to be a crowd pleaser.
 
-last line changed locally
+This recipe will contain the following to help you:
 
-line 2 changed remotely
+1. A complete ingredient list
+2. Hands on instruction so you never miss a beat
+3. Ingredient adjustments for larger portions
+
+![Bolognaise image](recipe.jpg)
